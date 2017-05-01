@@ -1,37 +1,80 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
 
-You can use the [editor on GitHub](https://github.com/driedmango/test-1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<html lang="en-US">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<head>
 
-### Markdown
+<title>WEBSITE WOAHHH</title>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+</head>
 
-```markdown
-Syntax highlighted code block
+<style>
+h1 {color:greenyellow;}
+select {color:magenta;}
+button {color:indigo;}
+</style>
 
-# Header 1
-## Header 2
-### Header 3
+<body style="background-color: lemonchiffon">
 
-- Bulleted
-- List
+<font face="throw my hands up in the air">
 
-1. Numbered
-2. List
+<h1> <font size="84">The Magnificent Rants of Jenny Wan</font></h1>
 
-**Bold** and _Italic_ and `Code` text
+<p> <font color="cornflowerblue" size="4">
+<select name="Jenny's Info">
+  <option>Awesomesauce</option>
+  <option>Maestro</option>
+  <option>Harbinger</option>
+  <option>Clandestine</option>
+</select>
+<button>OK</button>
+<br>
+<b>Name:</b> Jenny Wan
+<br>
+<b>Birthdate:</b> who the fuck knows
+<br>
+<b>Birthplace:</b> who the fuck cares
+<br>
+<b>Current residence:</b> Mason, Ohio
+<br>
+<b>Favorite foods:</b> <u><i>BREAD</i></u>
+<br>
+<b>Favorite color:</b> Cornflower blue
+</font></p>
+<p> <font color="deeppink" size="4">
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+<br>
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+<br>
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+<br>
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+<br>
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
+<br>
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+<br>
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+<br>
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+<br>
+YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+</font></p>
+<p> <font color="coral" size="4">
+<b>LOL html is funny</b>
+</font></p>
+<p> <font color="darkmagenta" size="4">
+<i>More questions?</i> Email Jenny Wan at: <u>jtw.cpc@gmail.com</u>
+<br>
+<a href="http://www.gmail.com">Link here</a>
+</font></p> 
 
-[Link](url) and ![Image](src)
-```
+</font>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<img src="C:\Users\Jenny\Pictures\Edited\Me Jumping 2.jpg" width="450" height="260">
 
-### Jekyll Themes
+</font>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/driedmango/test-1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+</body>
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
